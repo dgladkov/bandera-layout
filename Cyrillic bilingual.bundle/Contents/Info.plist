@@ -18,7 +18,7 @@
 	<key>KLInfo_Cyrillic bilingual - Phonetic</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.cyrillicbilingual-phonetic</string>
+		<string>org.sil.ukelele.keyboardlayout.cyrillicbilingual.cyrillicbilingual-phonetic</string>
 		<key>TISIntendedLanguage</key>
 		<string>en-UA</string>
 	</dict>
